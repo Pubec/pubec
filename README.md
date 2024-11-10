@@ -9,7 +9,7 @@ Machine learning developer with expertise in CNN frameworks, computer vision, da
 
 - 🌍 I'm based in Slovenia  
 - ✉️ You can contact me at [domen@preloznik.dev](mailto:domen@preloznik.dev)  
-- 🚀 I'm currently working on [CNN-based Brain MRI Analysis on Web](http://(s)medical-ai.eu)  
+- 🚀 I'm currently working on [CNN-based Brain MRI Analysis on Web](https://medical-ai.eu)  
 - 🧠 I'm learning Flutter  
 - 🤝 I'm open to collaborating on AI, Django, CV, WebScraping  
 - ⚡ The more diverse the work, the harder I say no  
